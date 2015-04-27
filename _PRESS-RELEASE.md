@@ -19,26 +19,39 @@ Once the project moves into development, the press release can be used as a touc
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
 
+Rank Vote
+
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+
+Zero overhead ranked preference voting
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 
+A quick and easy way to conduct a ranked preference vote among a group of people. The admin navigates to a landing page and creates a ballot and adds voters by email address. Each voter is emailed a ballot and ranks her options according to personal preference. Once all ballots are submited, results are calculated and displayed to all voters.
+
 ## Problem ##
   > Describe the problem your product solves.
 
+It's hard for groups of people in a large meeting to quickly express their preference and come to a choice that balances everyone's preferences. Picking a restaraunt or movie with a large group of friends or deciding between interview canidates at an all hands meeting. 
+
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+
+Rank Vote lowers the overhead to doing a formal poll. It quickly an anymously get's the pulse of the group and makes sure everyone's preferences are equally waited in coming to a decision.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+
+
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+
+Simply navigate to rankvote.me
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+
+Before rank vote we used a lot of informal methods for solicitng group input, but the loudest person tended to always win out. Now we can take everyone's preferences into consideration.
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+
+Next time you're trying to pick between several restaraunts or movies with your friend. Try rank vote.
